@@ -1,46 +1,15 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+   
 
+## Machine Learning and Natural Language Processing Projects
 
-Welcome to your Python project on Cloud9 IDE!
+Welcome!  This Github repository contains several projects related to machine leanring and natural language processing.  The list of projects and short descriptions are listed below.  
 
-To show what Cloud9 can do, we added a basic sample web application to this
-workspace, from the excellent Python tutorial _Learning Python the Hard Way_.
-We skipped ahead straight to example 50 which teaches how to build a web
-application.
+⋅* Machine Learning
+⋅⋅* Amazon Review Project -- For this project, I tried to create an algorithim that identifies helpful and non-helpful reviews.  
+⋅⋅* Plane Identification -- Using photo manipulation, I used the Neural Network to help identify planes from over 2000 images.
 
-If you've never looked at the tutorial or are interested in learning Python,
-go check it out. It's a great hands-on way for learning all about programming
-in Python.
+⋅* Natural Language Processing
+⋅⋅* Sentiment analysis -- Using RNN, this project identifies positive and negative movie reviews
+⋅⋅* Part of Speech Tagger -- I created a part of speech tagger
 
-* _Learning Python The Hard Way_, online version and videos: 
-http://learnpythonthehardway.org/book/
-
-* Full book: http://learnpythonthehardway.org
-
-## Starting from the Terminal
-
-To try the example application, type the following in the terminal:
-
-```
-cd ex50
-python bin/app.py
-```
-
-Alternatively, open the file in ex50/bin and click the green Run
-button!
-
-## Configuration
-
-You can configure your Python version and `PYTHONPATH` used in
-Cloud9 > Preferences > Project Settings > Language Support.
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
-To watch some training videos, visit http://www.youtube.com/user/c9ide.
