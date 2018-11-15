@@ -2,6 +2,7 @@
    
 
 ## Machine Learning and Natural Language Processing Projects
+### Steven Hubbard, Ph.D.
 
 Welcome!  This Github repository contains several projects related to machine leanring and natural language processing.  The list of projects and short descriptions are listed below.  
 
